@@ -3,7 +3,7 @@ package puissanceQuatre;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class Jeu {
+public class Jeu{
 
     private int tab[][];
     private int derniereColonne;
